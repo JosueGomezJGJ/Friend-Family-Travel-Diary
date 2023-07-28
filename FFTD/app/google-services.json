@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764902762277",
+    "project_id": "cse-3310-app",
+    "storage_bucket": "cse-3310-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764902762277:android:2c904a934ab4332dabdccc",
+        "android_client_info": {
+          "package_name": "com.example.cse3310"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764902762277-8hr7sr8q5ta4671bfren37orl7kla42b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6ASVVXlC8BdwmOooQy4MLjDMtq1NXg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764902762277-8hr7sr8q5ta4671bfren37orl7kla42b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
